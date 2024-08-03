@@ -9,8 +9,4 @@ public class PagamentosApplication {
     public static void main(String[] args) {
         SpringApplication.run(PagamentosApplication.class, args);
     }
-    //teste
-
-
-
 }
