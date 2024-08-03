@@ -1,10 +1,10 @@
-package br.com.alurafood.pagamentos;
+package com.alurafood.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PagamentosApplicationTests {
+class ServerApplicationTests {
 
 	@Test
 	void contextLoads() {
